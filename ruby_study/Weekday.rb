@@ -1,4 +1,5 @@
-
+# use below address to obtain the output of this program
+# https://repl.it/languages/ruby
 i=0
 while i<30 do
   day = Time.new(2019,06,1) + 60 * 60 * 24 * i
